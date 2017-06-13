@@ -1,0 +1,27 @@
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Debug\IMSS Shortcut File Cleaner.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Debug\IMSS Shortcut File Cleaner.pdb
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Debug\IMSS Shortcut File Cleaner.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.MainWindow.resources
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.Resources.resources
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS Shortcut File Cleaner.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS Shortcut File Cleaner.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS Shortcut File Cleaner.pdb
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.IMSS_ProcessingInterfaceUnitUserControl.resources
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.IMSS_ResultUserControl.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS Shortcut File Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS Shortcut File Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS Shortcut File Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Debug\IMSS Shortcut File Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Debug\IMSS Shortcut File Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Debug\IMSS Shortcut File Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.IMSS_ResultUserControl.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.MainWindow.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.Resources.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.IMSS_PROCESS_TARGETS.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Debug\IMSS_Shortcut_File_Cleaner.IMSS_ITEMS_NOTFOUND.resources

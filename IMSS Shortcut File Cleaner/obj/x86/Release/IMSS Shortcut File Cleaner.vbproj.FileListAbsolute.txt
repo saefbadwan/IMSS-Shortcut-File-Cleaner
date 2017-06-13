@@ -1,0 +1,18 @@
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Release\IMSS Shortcut File Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Release\IMSS Shortcut File Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Release\IMSS Shortcut File Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\ResolveAssemblyReference.cache
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS_Shortcut_File_Cleaner.IMSS_ITEMS_NOTFOUND.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS_Shortcut_File_Cleaner.IMSS_PROCESS_TARGETS.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS_Shortcut_File_Cleaner.IMSS_ResultUserControl.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS_Shortcut_File_Cleaner.MainWindow.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS_Shortcut_File_Cleaner.Resources.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS Shortcut File Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS Shortcut File Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\obj\x86\Release\IMSS Shortcut File Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Release\IMSS_Multiuse.dll
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Release\IMSS_Multiuse.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Release\IMSS_Multiuse.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Shortcut File Cleaner\IMSS Shortcut File Cleaner\bin\Release\IMSS Shortcut File Cleaner.exe.config
